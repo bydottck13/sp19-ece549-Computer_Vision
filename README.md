@@ -30,7 +30,7 @@ Use Mask R-CNN to detect all edges of the target. Notice that the object must be
 Welcome to discuss with us.
 ```
 @misc{uiuc_ece549_sp19,
-  title={Automatically 3D reconstruction by single-view metrolopy and Mask R-CNN},
+  title={Automatically 3D reconstruction by single-view metrology and Mask R-CNN},
   author={Bo-Rong Chen, Hsiu-Yao Chang, and Hsin-Yu Hou},
   year={2019},
   publisher={Github},
